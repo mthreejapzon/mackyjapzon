@@ -1,0 +1,37 @@
+h1 {
+	text-decoration-color: red;
+	padding-bottom: 1px;
+	margin-bottom: 1px;
+	margin-left: 45px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: 
+}
+
+.small {
+	padding-top: 1px;
+	margin-left: 45px;
+}
+
+body {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.img {
+	max-width: 600px;
+}
+
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+.bg {
+	margin: 0;
+	background-image: url(https://cdn1.imggmi.com/uploads/2019/6/26/b7c5d8e51098ae41302893421f464af6-full.png);
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
